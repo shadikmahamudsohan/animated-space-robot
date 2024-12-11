@@ -1,0 +1,3 @@
+for authentication used https://authjs.dev/getting-started/installation?framework=Next.js
+
+for github auth https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app
